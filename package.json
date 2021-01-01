@@ -1,0 +1,29 @@
+{
+  "name": "bot-pub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^2.5.0",
+    "axios": "^0.20.0",
+    "discord.js": "^12.3.1",
+    "emoji.js": "^1.0.0",
+    "express": "^4.17.1",
+    "jimp": "^0.16.1",
+    "mathjs": "^7.5.0",
+    "moment": "^2.29.1",
+    "ms": "^2.1.2",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "superagent": "^6.1.0",
+    "twemoji": "^13.0.1",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^3.3.0"
+  }
+}
